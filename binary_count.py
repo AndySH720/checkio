@@ -1,3 +1,5 @@
+__author__ = "AndySH720"
+
 def count_units(number):
 	n = bin(number)
 	n = list(n)
